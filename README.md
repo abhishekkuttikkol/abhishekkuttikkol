@@ -1,4 +1,4 @@
-### Hi there, I'm [Abhishek P](https://github.com/abhishekkuttikkol) 👋
+### Hi there, I'm [Abhishek P](https://github.com/abhishekkuttikkol)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="center">
 <br><img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="400px"><br><br>
 </p>
