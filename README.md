@@ -13,7 +13,8 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [website](https://abhishek-0015.web.app/) Email : abhishekkuttikkol007@gmail.com
+- 📫 How to reach me: [website](https://abhishek-0015.web.app/)
+-                     Email : abhishekkuttikkol007@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
