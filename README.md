@@ -28,17 +28,23 @@
     </a>
     <a href="https://getbootstrap.com" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code>  
-    </a> 
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank"> 
+        <code><img src="https://github.com/aniftyco/awesome-tailwindcss/blob/master/assets/logo.svg" alt="bootstrap" width="40" height="40"/></code>  
+    </a>
     <a href="https://fr.reactjs.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </code> 
     </a> 
-    <a href="https://fr.reactjs.org/" target="_blank"> 
+    <a href="https://nodejs.org/en/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="React" width="40" height="40"/> </code> 
+    </a> 
+    <a href="https://expressjs.com/" target="_blank"> 
+        <code><img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="React" width="40" height="40"/> </code> 
     </a> 
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
     </a> 
-    <a href="https://git-scm.com/" target="_blank"> 
+    <a href="https://www.mongodb.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongoDb" width="40" height="40"/></code>  
     </a>
     
@@ -49,7 +55,6 @@
 
 <p ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkuttikkol&layout=compact&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" alt="Abderrahmanee" /></p> 
 <img src="https://github-readme-stats.vercel.app/api?username=abhishekkuttikkol&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=">
-<br/>
 <br/>
 
 ### Connect with Me
