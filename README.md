@@ -3,6 +3,13 @@
 <br><img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="400px"><br><br>
 </p>
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 <!-- **abhishekkuttikkol/abhishekkuttikkol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -13,7 +20,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [website](https://abhishek-0015.web.app/)
+<!-- - 📫 How to reach me: [website](https://abhishek-0015.web.app/) -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
@@ -31,6 +38,9 @@
     </a> 
     <a href="https://fr.reactjs.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </code> 
+    </a> 
+    <a href="https://fr.reactjs.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="React" width="40" height="40"/> </code> 
     </a> 
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
