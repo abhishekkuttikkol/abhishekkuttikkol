@@ -1,6 +1,6 @@
 ### Hi there, I'm [Abhishek P](https://github.com/abhishekkuttikkol) 👋
 <p align="center">
-<br><img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="800px"><br><br>
+<br><img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="300px"><br><br>
 </p>
 
 
