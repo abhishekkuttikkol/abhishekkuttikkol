@@ -35,9 +35,21 @@
     <a href="https://fr.reactjs.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </code> 
     </a> 
+    <a href="" target="_blank"> 
+        <code><img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="React" width="40" height="40"/> </code> 
+    </a> 
+    <a href="" target="_blank"> 
+        <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="React" width="40" height="40"/> </code> 
+    </a> 
+    <a href="" target="_blank"> 
+        <code><img src="https://e7.pngegg.com/pngimages/65/205/png-clipart-opencv-computer-vision-library-c-github-text-logo-thumbnail.png" alt="React" width="40" height="40"/> </code> 
+    </a> 
     <a href="https://nodejs.org/en/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="React" width="40" height="40"/> </code> 
     </a> 
+    <a href="" target="_blank"> 
+        <code><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608125962157/01oWXzCQ4.png?w=400&h=400&fit=crop&crop=entropy&auto=compress" alt="React" width="40" height="40"/> </code> 
+    </a>
      <a href="https://www.mongodb.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongoDb" width="40" height="40"/></code>  
     </a>
