@@ -1,5 +1,5 @@
 ### Hi there, I'm [Abhishek P](https://github.com/abhishekkuttikkol)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p align="center">
+<p align="left">
 <!-- <br><img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="400px"><br><br> -->
     <br><img src="https://avatars.githubusercontent.com/u/75170385?v=4" width="200px" style="border-radius:50%"><br><br>
 </p>
